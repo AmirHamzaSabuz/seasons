@@ -1,0 +1,40 @@
+.icon-left {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.icon-right {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.season-display.winter i {
+  color: aliceblue;
+}
+
+.season-display.summer i {
+  color: white;
+}
+
+.season-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.winter {
+  /* background-color: aliceblue; */
+  /* background-image: url("snow-in-pinehurst-seattle-washington-2-9-19.31.56 AM.png"); */
+  background-image: url("9b2fb793e108c5bbc216a1b501067a1a.jpg");
+}
+.summer {
+  /* background-color: orange; */
+  background-image: url("screen-9.jpg");
+}
+
+h1 {
+  font-size: 6em;
+}
