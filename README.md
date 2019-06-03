@@ -1,3 +1,5 @@
+This app will want to know your location. In your location if now summer season, you will see the photo of sea beach. If now winter season in your are you will see photo of snowfall. If you don't allow to know your location you will get error message.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
